@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 
+  name: MyString
+  description: MyText
+  due_date: 2016-05-25 00:50:19
+  completed: false
+  location: MyString
+  price: 9.99
+  pledge_id: 1
+
+two:
+  user_id: 
+  name: MyString
+  description: MyText
+  due_date: 2016-05-25 00:50:19
+  completed: false
+  location: MyString
+  price: 9.99
+  pledge_id: 1
